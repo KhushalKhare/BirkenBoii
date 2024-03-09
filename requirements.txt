@@ -1,2 +1,2 @@
-pygame
-pytest
+pygame==2.1.2
+python --version
